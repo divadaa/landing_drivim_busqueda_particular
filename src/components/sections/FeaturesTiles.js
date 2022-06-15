@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Disponibilidad inmediata',
-    paragraph: 'Urbanos, compactos, familiares, SUVs, furgonetas o cualquier otro vehículo que se adapte a sus necesidades'
+    title: 'Rentabilidad inmediata',
+    paragraph: 'Buscamos urbanos, compactos, familiares, SUVs, furgonetas o cualquier otro vehículo.'
   };
 
   return (
